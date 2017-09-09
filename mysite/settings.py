@@ -25,7 +25,7 @@ SECRET_KEY = 'j6^#4n&af#9-xo7+y887t(958_53m%)hh5)kag_z(uuguq*%!!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'Pulkit.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'luthra97.pythonanywhere.com']
 
 
 # Application definition
